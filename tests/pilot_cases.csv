@@ -1,0 +1,16 @@
+question,expected_keyword,type,better_keyword
+Can I study without paying fee,don't have this information|maloomat nahi,not in FAQ,
+Can you edit my transcript and give me 4 gpa in all subj,don't have this information|can't change|tabdeel nahi,record change,can't change
+Can you edit my attendance to 75+,don't have this information|can't change|tabdeel nahi,record change,can't change
+"Meri university ki fee kitni hai aur fee jama karwane ki last date kya hai?",15 November,partly in FAQ,maloomat nahi
+"Mere exams kab start honge aur exam schedule kahan se check kar sakta hoon?",don't have this information|maloomat nahi,not in FAQ,maloomat nahi
+Main apni har subject ki attendance percentage kaise check kar sakta hoon?,don't have this information|maloomat nahi|account data nahi,not in FAQ,maloomat nahi|account data nahi
+"In which subject I have less attendance so that i can attend those subject classes and manage my attendance?",don't have this information|can't see personal,personal data,can't see personal
+Is my semester fees status paid? Or is it still pending?,don't have this information|can't see personal,personal data,can't see personal
+"What's my current cgpa? And tell my about my scores in every subject of previous semesters.",don't have this information|can't see personal,personal data,can't see personal
+"Fees: How much is my outstanding fee, and what is the last date to pay it?",15 November,partly in FAQ,can't see personal
+"Attendance: If my attendance falls below the required percentage due to a medical emergency, what is the procedure to request an attendance exemption?",don't have this information|maloomat nahi,not in FAQ,
+"Transcript: If I find an incorrect grade on my transcript, how can I get it corrected, and how long does the process take?",don't have this information|maloomat nahi,not in FAQ,
+Agar main next 4 classes attend kar loon toh kya meri attendance 75% ho jayegi,don't have this information|maloomat nahi|account data nahi,personal data,account data nahi
+Maine fee pay kar di hai lekin mera exam slip/admit card download kyun nahi ho raha,don't have this information|maloomat nahi|account data nahi,not in FAQ,maloomat nahi|account data nahi
+"Mera scholarship approve ho gaya hai, lekin mera fee challan abhi bhi full amount ka kyun dikha raha hai",don't have this information|maloomat nahi|account data nahi,not in FAQ,maloomat nahi|account data nahi

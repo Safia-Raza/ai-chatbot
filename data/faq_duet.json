@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Where can I generate my semester fee challan?",
+    "a": "Students log in to the DUET Portal with their Microsoft ID and generate the semester fee challan there.",
+    "source": "duet.edu.pk ICT Services page"
+  },
+  {
+    "q": "Where can I generate the examination fee challan or submit the examination form?",
+    "a": "On the DUET Portal: after logging in, students can generate the examination fee challan and submit their examination forms.",
+    "source": "duet.edu.pk ICT Services page"
+  },
+  {
+    "q": "How can I check my attendance?",
+    "a": "Attendance can be checked on the DUET Portal after logging in with your Microsoft ID.",
+    "source": "duet.edu.pk ICT Services page"
+  },
+  {
+    "q": "How much is my semester fee?",
+    "a": "According to the DUET fee structure page for BE and B.Arch programs, the semester fee is calculated on the challan from the number of courses you registered and the fixed fee heads, so it differs between students. Generate your challan on the DUET Portal to see your exact amount.",
+    "source": "admissions.duet.edu.pk fee structure (BE/B.Arch)"
+  },
+  {
+    "q": "How long is a fee challan valid?",
+    "a": "According to the DUET fee structure for BE and B.Arch programs, a challan is valid for 45 days from the date the semester starts.",
+    "source": "admissions.duet.edu.pk fee structure (BE/B.Arch)"
+  },
+  {
+    "q": "Why does my fee challan show the full amount although I have a scholarship?",
+    "a": "In a 2024 DUET notice, challans of scholarship students were generated first and updated with the scholarship amounts later. Please check the DUET Portal and the latest fee notice, or contact the admin office.",
+    "source": "DUET notice, October 2024"
+  },
+  {
+    "q": "Where do I pay the semester fee?",
+    "a": "A 2024 DUET notice said the fee is paid at any branch of Sindh Bank. Your challan shows the bank to use for the current semester.",
+    "source": "DUET notice, October 2024"
+  },
+  {
+    "q": "Where is DUET and what is its official website?",
+    "a": "Dawood University of Engineering and Technology is on New M.A. Jinnah Road, Karachi. The official website is duet.edu.pk and admissions information is at admissions.duet.edu.pk.",
+    "source": "duet.edu.pk"
+  }
+]

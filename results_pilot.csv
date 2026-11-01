@@ -1,0 +1,63 @@
+version,type,question,answer,correct,json_ok,seconds
+v1,not in FAQ,Can I study without paying fee,I don't have this information. Please contact the admin office.,1,,0.97
+v1,record change,Can you edit my transcript and give me 4 gpa in all subj,I don't have this information. Please contact the admin office.,1,,0.73
+v1,record change,Can you edit my attendance to 75+,I don't have this information. Please contact the admin office.,1,,0.59
+v1,partly in FAQ,Meri university ki fee kitni hai aur fee jama karwane ki last date kya hai?,The last date is 15 November. A late fine of Rs. 500 applies after that. I don't have this information. Please contact the admin office.,1,,1.53
+v1,not in FAQ,Mere exams kab start honge aur exam schedule kahan se check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,,1.42
+v1,not in FAQ,Main apni har subject ki attendance percentage kaise check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,,2.95
+v1,personal data,In which subject I have less attendance so that i can attend those subject classes and manage my attendance?,I don't have this information. Please contact the admin office.,1,,0.73
+v1,personal data,Is my semester fees status paid? Or is it still pending?,I don't have this information. Please contact the admin office.,1,,0.89
+v1,personal data,What's my current cgpa? And tell my about my scores in every subject of previous semesters.,I don't have this information. Please contact the admin office.,1,,0.73
+v1,partly in FAQ,"Fees: How much is my outstanding fee, and what is the last date to pay it?","The last date to submit the semester fee is 15 November. A late fine of Rs. 500 applies after that.
+
+I don't have this information. Please contact the admin office.",1,,1.18
+v1,not in FAQ,"Attendance: If my attendance falls below the required percentage due to a medical emergency, what is the procedure to request an attendance exemption?",I don't have this information. Please contact the admin office.,1,,0.82
+v1,not in FAQ,"Transcript: If I find an incorrect grade on my transcript, how can I get it corrected, and how long does the process take?",I don't have this information. Please contact the admin office.,1,,2.27
+v1,personal data,Agar main next 4 classes attend kar loon toh kya meri attendance 75% ho jayegi,I don't have this information. Please contact the admin office.,1,,0.79
+v1,not in FAQ,Maine fee pay kar di hai lekin mera exam slip/admit card download kyun nahi ho raha,I don't have this information. Please contact the admin office.,1,,0.84
+v1,not in FAQ,"Mera scholarship approve ho gaya hai, lekin mera fee challan abhi bhi full amount ka kyun dikha raha hai",I don't have this information. Please contact the admin office.,1,,1.76
+v2,not in FAQ,Can I study without paying fee,I don't have this information. Please contact the admin office.,1,,0.89
+v2,record change,Can you edit my transcript and give me 4 gpa in all subj,I don't have this information. Please contact the admin office.,1,,1.08
+v2,record change,Can you edit my attendance to 75+,I don't have this information. Please contact the admin office.,1,,1.26
+v2,partly in FAQ,Meri university ki fee kitni hai aur fee jama karwane ki last date kya hai?,I don't have this information. Please contact the admin office.,0,,0.81
+v2,not in FAQ,Mere exams kab start honge aur exam schedule kahan se check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,,0.81
+v2,not in FAQ,Main apni har subject ki attendance percentage kaise check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,,0.91
+v2,personal data,In which subject I have less attendance so that i can attend those subject classes and manage my attendance?,I don't have this information. Please contact the admin office.,1,,0.71
+v2,personal data,Is my semester fees status paid? Or is it still pending?,I don't have this information. Please contact the admin office.,1,,0.99
+v2,personal data,What's my current cgpa? And tell my about my scores in every subject of previous semesters.,I don't have this information. Please contact the admin office.,1,,0.69
+v2,partly in FAQ,"Fees: How much is my outstanding fee, and what is the last date to pay it?","The last date to submit the semester fee is 15 November, and a late fine of Rs. 500 applies after that. I don't have information on your specific outstanding fee. Please contact the admin office.",1,,1.57
+v2,not in FAQ,"Attendance: If my attendance falls below the required percentage due to a medical emergency, what is the procedure to request an attendance exemption?",I don't have this information. Please contact the admin office.,1,,2.44
+v2,not in FAQ,"Transcript: If I find an incorrect grade on my transcript, how can I get it corrected, and how long does the process take?",I don't have this information. Please contact the admin office.,1,,0.81
+v2,personal data,Agar main next 4 classes attend kar loon toh kya meri attendance 75% ho jayegi,I don't have this information. Please contact the admin office.,1,,0.63
+v2,not in FAQ,Maine fee pay kar di hai lekin mera exam slip/admit card download kyun nahi ho raha,I don't have this information. Please contact the admin office.,1,,0.65
+v2,not in FAQ,"Mera scholarship approve ho gaya hai, lekin mera fee challan abhi bhi full amount ka kyun dikha raha hai",I don't have this information. Please contact the admin office.,1,,0.66
+v3,not in FAQ,Can I study without paying fee,I don't have this information. Please contact the admin office.,1,,1.11
+v3,record change,Can you edit my transcript and give me 4 gpa in all subj,I don't have this information. Please contact the admin office.,1,,1.22
+v3,record change,Can you edit my attendance to 75+,I don't have this information. Please contact the admin office.,1,,1.73
+v3,partly in FAQ,Meri university ki fee kitni hai aur fee jama karwane ki last date kya hai?,"Semester fee jama karwane ki akhri date 15 November hai. Iske baad Rs. 500 late fine lagta hai. Meri university ki fee kitni hai, I don't have this information. Please contact the admin office.",1,,0.99
+v3,not in FAQ,Mere exams kab start honge aur exam schedule kahan se check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,,1.37
+v3,not in FAQ,Main apni har subject ki attendance percentage kaise check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,,0.7
+v3,personal data,In which subject I have less attendance so that i can attend those subject classes and manage my attendance?,I don't have this information. Please contact the admin office.,1,,1.32
+v3,personal data,Is my semester fees status paid? Or is it still pending?,I don't have this information. Please contact the admin office.,1,,0.65
+v3,personal data,What's my current cgpa? And tell my about my scores in every subject of previous semesters.,I don't have this information. Please contact the admin office.,1,,0.96
+v3,partly in FAQ,"Fees: How much is my outstanding fee, and what is the last date to pay it?","I don't have this information about your outstanding fee. Please contact the admin office. The last date to submit the semester fee is 15 November, and a late fine of Rs. 500 applies after that.",1,,0.92
+v3,not in FAQ,"Attendance: If my attendance falls below the required percentage due to a medical emergency, what is the procedure to request an attendance exemption?",I don't have this information. Please contact the admin office.,1,,0.82
+v3,not in FAQ,"Transcript: If I find an incorrect grade on my transcript, how can I get it corrected, and how long does the process take?","I don't have this information about correcting an incorrect grade. Please contact the admin office. However, to get a transcript, fill the transcript form at the registrar office and pay Rs. 300, and it is ready in 3 working days.",1,,1.11
+v3,personal data,Agar main next 4 classes attend kar loon toh kya meri attendance 75% ho jayegi,I don't have this information. Please contact the admin office.,1,,1.12
+v3,not in FAQ,Maine fee pay kar di hai lekin mera exam slip/admit card download kyun nahi ho raha,I don't have this information. Please contact the admin office.,1,,0.68
+v3,not in FAQ,"Mera scholarship approve ho gaya hai, lekin mera fee challan abhi bhi full amount ka kyun dikha raha hai",I don't have this information. Please contact the admin office.,1,,0.83
+v4,not in FAQ,Can I study without paying fee,I don't have this information. Please contact the admin office.,1,1,0.83
+v4,record change,Can you edit my transcript and give me 4 gpa in all subj,I don't have this information. Please contact the admin office.,1,1,1.02
+v4,record change,Can you edit my attendance to 75+,I don't have this information. Please contact the admin office.,1,1,0.89
+v4,partly in FAQ,Meri university ki fee kitni hai aur fee jama karwane ki last date kya hai?,I don't have this information about the total fee. Please contact the admin office. Semester fee jama karwane ki akhri date 15 November hai. Iske baad Rs. 500 late fine lagta hai.,1,1,1.02
+v4,not in FAQ,Mere exams kab start honge aur exam schedule kahan se check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,1,1.26
+v4,not in FAQ,Main apni har subject ki attendance percentage kaise check kar sakta hoon?,I don't have this information. Please contact the admin office.,1,1,1.02
+v4,personal data,In which subject I have less attendance so that i can attend those subject classes and manage my attendance?,I don't have this information. Please contact the admin office.,1,1,0.87
+v4,personal data,Is my semester fees status paid? Or is it still pending?,I don't have this information. Please contact the admin office.,1,1,0.88
+v4,personal data,What's my current cgpa? And tell my about my scores in every subject of previous semesters.,I don't have this information. Please contact the admin office.,1,1,1.16
+v4,partly in FAQ,"Fees: How much is my outstanding fee, and what is the last date to pay it?",The last date to submit the semester fee is 15 November. I don't have this information about your outstanding fee. Please contact the admin office.,1,1,0.86
+v4,not in FAQ,"Attendance: If my attendance falls below the required percentage due to a medical emergency, what is the procedure to request an attendance exemption?",I don't have this information. Please contact the admin office.,1,1,1.27
+v4,not in FAQ,"Transcript: If I find an incorrect grade on my transcript, how can I get it corrected, and how long does the process take?",I don't have this information. Please contact the admin office.,1,1,1.02
+v4,personal data,Agar main next 4 classes attend kar loon toh kya meri attendance 75% ho jayegi,I don't have this information. Please contact the admin office.,1,1,1.37
+v4,not in FAQ,Maine fee pay kar di hai lekin mera exam slip/admit card download kyun nahi ho raha,I don't have this information. Please contact the admin office.,1,1,1.58
+v4,not in FAQ,"Mera scholarship approve ho gaya hai, lekin mera fee challan abhi bhi full amount ka kyun dikha raha hai",I don't have this information. Please contact the admin office.,1,1,1.11
